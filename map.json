@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map2.tmx"
+                 "value":"..\/map2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
