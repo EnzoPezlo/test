@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/testenzo\/map2.json"
+                 "value":"..\/testenzo\/floor2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
